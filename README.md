@@ -1,7 +1,7 @@
 # Lottery solidity ethereum AngularUI
 This is demo source solidity ethereum with angular ui
 
-- install **Meta Mask** in Chrome, and register account
+- install [**Meta Mask**](https://metamask.io/) in Chrome, and register account
 - Run `npm install`
 - Then run `node patch.js` first
 - Finally run `ng serve` and open 'localhost:4200` on your browser.
